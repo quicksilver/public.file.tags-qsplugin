@@ -16,6 +16,8 @@
 	<string>BNDL</string>
 	<key>CFBundleVersion</key>
 	<string>118</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
 	<key>NSPrincipalClass</key>
 	<string>QSFileTagsPlugIn</string>
 	<key>QSActions</key>
